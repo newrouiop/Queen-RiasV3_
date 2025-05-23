@@ -1,7 +1,7 @@
 {
   "name": "Rias-Gremory",
   "description": "For deploying Rias-Gremory.",
-  "repository": "https://github.com/Toxic1239/PhoenixFury0000",
+  "repository": "https://github.com/PhoenixFury0000",
   "build": {
     "commands": {
       "install": "yarn install",
