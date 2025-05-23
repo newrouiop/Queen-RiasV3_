@@ -2,7 +2,7 @@
     "name": "Rias-Gremory",
     "version": "1.0.0",
     "description": "WhatsApp Bot Using Node.js - Rias Edition",
-    "author": "Toxxic",
+    "author": "𝚸𝚮𝚯𝚵𝚴𝚰𝚾",
     "license": "MIT",
     "main": "index.js",
     "type": "commonjs",
@@ -10,7 +10,7 @@
         "commands": "commands",
         "database": "database",
         "session": "session",
-        "Toxxic": "Toxxic",
+        "𝚸𝚮𝚯𝚵𝚴𝚰𝚾": "𝚸𝚮𝚯𝚵𝚴𝚰𝚾",
         "tmp": "tmp"
     },
     "scripts": {
