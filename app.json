@@ -1,7 +1,7 @@
 {
   "name": "Rias Gremory X",
   "description": "WhatsApp Bot using Node.js and Baileys",
-  "repository": "https://github.com/Toxic1239/Queen-RiasV3_",
+  "repository": "https://github.com/PhoenixFury0000",
   "keywords": ["whatsapp", "bot", "baileys", "nodejs"],
   "buildpacks": [
     { "url": "heroku/nodejs" }
